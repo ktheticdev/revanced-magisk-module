@@ -1,7 +1,7 @@
-2022-08-24
+2022-08-25
   
 CLI: [revanced-cli-2.10.2-all.jar](https://github.com/j-hc/revanced-cli/releases/latest)  
-Integrations: [app-release-unsigned-v0.36.0.apk](https://github.com/revanced/revanced-integrations/releases/latest)  
+Integrations: [app-release-unsigned-v0.36.2.apk](https://github.com/revanced/revanced-integrations/releases/latest)  
 Patches: [revanced-patches-2.42.0.jar](https://github.com/revanced/revanced-patches/releases/latest)  
 
 YouTube version: 17.32.35  
@@ -16,5 +16,5 @@ downloaded from: [APKMirror - YouTube Music arm-v7a](https://www.apkmirror.com/a
 Twitter version: 9.56.1-release.0  
 downloaded from: [APKMirror - Twitter](https://www.apkmirror.com/apk/twitter-inc/twitter/twitter-9-56-1-release-0-release/twitter-9-56-1-release-0-android-apk-download/)  
 
-Reddit version: 2022.31.0  
-downloaded from: [APKMirror - Reddit](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2022-31-0-release/reddit-2022-31-0-2-android-apk-download/)  
+Reddit version: 2022.31.1  
+downloaded from: [APKMirror - Reddit](https://www.apkmirror.com/apk/redditinc/reddit/reddit-2022-31-1-release/reddit-2022-31-1-android-apk-download/)  
