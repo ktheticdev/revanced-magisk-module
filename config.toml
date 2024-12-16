@@ -12,6 +12,7 @@ excluded-patches = "'Add splash animation' 'Custom branding icon Revancify Blue'
 included-patches = "'MaterialYou' 'Custom branding icon for YouTube'"
 version = "19.16.39"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+enabled = false
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
@@ -19,6 +20,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 build-mode = "both"
 arch = "both"
 version = "7.16.53"
+enabled = false
 excluded-patches = "'Add splash animation' 'Custom branding icon Revancify Blue'"
 included-patches = "'Custom branding icon for YouTube Music'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
@@ -29,6 +31,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 build-mode = "both"
 arch = "both"
 version = "auto"
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
@@ -37,8 +40,13 @@ app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
+excluded-patches = "'Add splash animation' 'Custom branding icon Revancify Blue'"                                                 
+included-patches = "'MaterialYou' 'Custom branding icon for YouTube'"
+excluded-patches = "'Add splash animation' 'Custom branding icon Revancify Blue'"
+included-patches = "'Custom branding icon for YouTube Music'"
 build-mode = "both"
 arch = "both"
+version = "7.16.53"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 
@@ -47,6 +55,7 @@ app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
+version = "19.16.39"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
@@ -55,19 +64,20 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
+enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
 [Twitch]
-enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
+enabled = false
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [Twitter]
-enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/x-corp/twitter"
 build-mode = "apk"
+enabled = false
 dpi = "120-640dpi"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
