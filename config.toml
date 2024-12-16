@@ -8,8 +8,8 @@ parallel-jobs = 1
 
 [YouTube]
 build-mode = "both"
-excluded-patches = ""
-included-patches = ""
+excluded-patches = "'Add splash animation' 'Custom branding icon Revancify Blue'"                                                 
+included-patches = "'MaterialYou' 'Custom branding icon for YouTube'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
@@ -18,6 +18,8 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 [Music]
 build-mode = "both"
 arch = "both"
+excluded-patches = "'Add splash animation' 'Custom branding icon Revancify Blue'"
+included-patches = "'Custom branding icon for YouTube Music'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music"
 uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"

@@ -1,0 +1,29 @@
+        
+[
+  {
+    "patchName": "Custom package name",
+    "options": [
+      {
+        "key": "PackageNameYouTube",
+        "value": "yt.rvx.noname.exe"
+      },
+      {
+        "key": "PackageNameYouTubeMusic",
+        "value": "ytm.rvx.noname.exe"
+      }
+    ]
+  }, {
+    "patchName" : "Custom branding icon for YouTube",
+    "options" : [ {
+      "key" : "AppIcon",
+      "value" : "MMT"
+    } ]
+  }, {
+    "patchName" : "Custom branding icon for YouTube Music",
+    "options" : [ {
+      "key" : "AppIcon",
+      "value" : "MMT"
+    } ]
+  }
+]
+        
