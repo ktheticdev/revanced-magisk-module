@@ -10,7 +10,7 @@ parallel-jobs = 1
 build-mode = "both"
 excluded-patches = "'Add splash animation' 'Custom branding icon Revancify Blue'"                                                 
 included-patches = "'MaterialYou' 'Custom branding icon for YouTube'"
-version = "19.16.39"
+version = "19.44.39"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 enabled = false
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
@@ -19,7 +19,7 @@ uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 [Music]
 build-mode = "both"
 arch = "both"
-version = "7.16.53"
+version = "7.25.53"
 enabled = false
 excluded-patches = "'Add splash animation' 'Custom branding icon Revancify Blue'"
 included-patches = "'Custom branding icon for YouTube Music'"
